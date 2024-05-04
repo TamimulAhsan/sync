@@ -490,3 +490,11 @@ h6,
         margin-bottom: -75px;
     }
 }
+
+.href-plain {
+    color: white;
+}
+
+.href-plain :hover{
+    color: white;
+}
